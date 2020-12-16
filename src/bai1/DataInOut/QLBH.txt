@@ -1,0 +1,49 @@
+Toản
+Áo phông
+2
+Áo có mũ
+1
+Ghế
+4
+Hiếu
+Áo có mũ
+2
+Ghế
+1
+Muối
+4
+Hiếu
+Áo có mũ
+2
+Bàn
+1
+Ghế
+3
+Trung
+Áo có mũ
+3
+Sách
+10
+Bàn
+1
+Toản
+Bàn
+1
+Ghế
+4
+Điện thoại
+1
+Trung
+Áo phông
+2
+Ghế
+4
+Bàn
+1
+Toản
+Áo phông
+1
+Điện thoại
+2
+Muối
+4

@@ -1,0 +1,36 @@
+1000
+Nồi
+Hàng gia dụng
+0.0
+1001
+Áo phông
+Hàng thời trang
+1500000.0
+1002
+Áo có mũ
+Hàng thời trang
+3000000.0
+1003
+Bàn
+Hàng gia dụng
+1500000
+1004
+Ghế
+Hàng gia dụng
+200000
+1005
+Điện thoại
+Hàng điện máy
+7000000
+1006
+Muối
+Hàng tiêu dùng
+10000
+1007
+Sách
+Hàng tiêu dùng
+5000
+1008
+Quần đùi
+Hàng thời trang
+425000
